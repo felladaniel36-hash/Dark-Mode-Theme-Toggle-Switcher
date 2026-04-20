@@ -7,7 +7,7 @@ const productLinks = [
 ];
 
 const connectLinks = [
-  { label: 'GitHub', href: 'https://github.com/felladaniel36-hash', icon: Github },
+  { label: 'GitHub', href: 'https://github.com/felladaniel36-hash/Dark-Mode-Theme-Toggle-Switcher', icon: Github },
 ];
 
 export default function Footer() {
