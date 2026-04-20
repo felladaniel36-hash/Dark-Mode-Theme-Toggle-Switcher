@@ -1,0 +1,9 @@
+/* Hero Section Styles */
+.hero-section {
+  height: 100vh;
+}
+
+/* Theme transition utility */
+.theme-transition {
+  transition: background-color 300ms ease, color 300ms ease, border-color 300ms ease;
+}
