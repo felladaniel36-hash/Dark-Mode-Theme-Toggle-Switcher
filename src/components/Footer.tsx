@@ -7,7 +7,7 @@ const productLinks = [
 ];
 
 const connectLinks = [
-  { label: 'GitHub', href: 'https://github.com/huncho-dev', icon: Github },
+  { label: 'GitHub', href: 'https://github.com/felladaniel36-hash', icon: Github },
 ];
 
 export default function Footer() {

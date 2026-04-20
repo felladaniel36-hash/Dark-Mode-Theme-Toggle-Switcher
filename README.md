@@ -107,7 +107,7 @@ The application features a comprehensive theme system with:
 
 ## Connect
 
-- GitHub: [@huncho-dev](https://github.com/huncho-dev)
+- GitHub: [@huncho-dev](https://github.com/felladaniel36-hash)
 
 ## Author
 
