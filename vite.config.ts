@@ -4,7 +4,7 @@ import { defineConfig } from "vite"
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: './',
+  base: '/Dark-Mode-Theme-Switcher/',
   plugins: [react()],
   server: {
     port: 3000,
